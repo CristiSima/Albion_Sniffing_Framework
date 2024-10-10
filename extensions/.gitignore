@@ -1,0 +1,10 @@
+*.py
+*/**
+
+!hello_world/**
+!fame_meter.py
+
+
+*/__pycache__
+!.gitignore
+!/__init__.py
